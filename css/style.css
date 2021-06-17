@@ -204,10 +204,7 @@ p {
   background: #18212b;
   border-radius: 10px;
 }
-.agency__awards:nth-child(3){
-  margin-right: 0;
-  padding-right: 0;
-}
+
 .awards__img {
   margin-top: 30px;
 }
@@ -545,8 +542,8 @@ p {
   .artificial {
     margin-top: 50px;
   }
+  
 }
-
 /*500PX*/
 @media (max-width: 500px) {
   .logo{
